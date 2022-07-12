@@ -18,7 +18,7 @@ Projeto desenvolvido para fins educacionais onde foram aplicados os conceitos da
 
 ## Aprendizados
 
-* Criação de Classes, Subclasses, Pseudoclasses no TypeScript;
+* Criação de Classes e Subclasses no TypeScript;
 
 * Herança e criação de Interfaces no TypeScript;
 
