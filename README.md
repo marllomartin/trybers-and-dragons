@@ -5,7 +5,7 @@
 </div>
 
 ## Sobre
-Projeto desenvolvido para fins educacionais onde foi aplicado os conceitos da arquitetura SOLID e os princípios de Programação Orientada a Objetos em uma estrutura de jogos de interpretação de papéis, mais conhecidos como jogos RPG (Role Playing Game) feito inteiramente em TypeScript enquanto eu estudava na [Trybe](https://www.betrybe.com/).
+Projeto desenvolvido para fins educacionais onde foram aplicados os conceitos da arquitetura SOLID e os princípios de Programação Orientada a Objetos em uma estrutura de jogos de interpretação de papéis, mais conhecidos como jogos RPG (Role Playing Game) feito inteiramente em TypeScript enquanto eu estudava na [Trybe](https://www.betrybe.com/).
 
 ## Tecnologia Utilizada
 
